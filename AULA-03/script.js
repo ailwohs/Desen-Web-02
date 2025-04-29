@@ -53,7 +53,7 @@ if (velocidade > 80) {
 
 //Exercício 06
 
-
+/*
 let idade = 20;
 let temCnh = true;
 
@@ -64,17 +64,16 @@ if (idade >= 18 && temCnh) {
 } else {
   console.log("Nao pode dirigir, menor de idade e sem CNH.");
 }
-
+*/
 
 //Exercício 07
 
-/*
 let numero = 0;
 while (numero <= 10) {
   console.log(numero);
   numero++;
 }
-*/
+
 
 //Exercício 08
 /*
