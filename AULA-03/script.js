@@ -68,20 +68,20 @@ if (idade >= 18 && temCnh) {
 
 //Exercício 07
 
+/*
 let numero = 0;
 while (numero <= 10) {
   console.log(numero);
   numero++;
 }
-
+*/
 
 //Exercício 08
-/*
+
 for (let i = 100; i >= 50; i--) {
     console.log(i);
   }
 
-*/
 
 //Exercício 09
 
